@@ -1,0 +1,19 @@
+Locales = Locales or {}
+Locales['cs'] = {
+    ['player_info_title'] = 'Informace o hráči',
+    ['character_name'] = 'Jméno postavy',
+    ['date_of_birth'] = 'Datum narození',
+    ['player_id'] = 'ID hráče',
+    ['current_job'] = 'Aktuální práce',
+    ['bank_money'] = 'Peníze na účtě',
+    ['cash_money'] = 'Hotovost',
+    ['phone_number'] = 'Telefonní číslo',
+    ['citizen_id'] = 'Občanské ID',
+    ['gang'] = 'Gang',
+    ['stress_level'] = 'Úroveň stresu',
+    ['hunger_level'] = 'Úroveň hladu',
+    ['thirst_level'] = 'Úroveň žízně',
+    ['unknown'] = 'Neznámé',
+    ['unemployed'] = 'Nezaměstnaný',
+    ['no_gang'] = 'Žádný gang'
+}

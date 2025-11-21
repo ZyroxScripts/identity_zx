@@ -1,0 +1,19 @@
+Locales = Locales or {}
+Locales['es'] = {
+    ['player_info_title'] = 'Información del Jugador',
+    ['character_name'] = 'Nombre del Personaje',
+    ['date_of_birth'] = 'Fecha de Nacimiento',
+    ['player_id'] = 'ID del Jugador',
+    ['current_job'] = 'Trabajo Actual',
+    ['bank_money'] = 'Dinero del Banco',
+    ['cash_money'] = 'Dinero en Efectivo',
+    ['phone_number'] = 'Número de Teléfono',
+    ['citizen_id'] = 'ID de Ciudadano',
+    ['gang'] = 'Pandilla',
+    ['stress_level'] = 'Nivel de Estrés',
+    ['hunger_level'] = 'Nivel de Hambre',
+    ['thirst_level'] = 'Nivel de Sed',
+    ['unknown'] = 'Desconocido',
+    ['unemployed'] = 'Desempleado',
+    ['no_gang'] = 'Sin Pandilla'
+}
